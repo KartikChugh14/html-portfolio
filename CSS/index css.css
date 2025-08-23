@@ -1,0 +1,41 @@
+body {
+  background-color: #b33791;
+}
+
+#A {
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-size: 30px;
+}
+
+#B {
+  margin-left: 650px;
+  margin-right: 650px;
+}
+
+#C {
+  border: solid black;
+  border-width: 5px;
+}
+
+#D {
+  background-color: #c562af;
+  margin: 0;
+}
+
+footer {
+  background-color: #db8dd0;
+}
+
+hr {
+  background-color: #db8dd0;
+}
+
+.writing {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 2rem;
+}
